@@ -1,4 +1,4 @@
-#Тестовое задание "Поиск авиа-билетов"
+# Тестовое задание "Поиск авиа-билетов"
 Ссылка на задание https://docs.google.com/document/d/1qPSFoOCgQtqnYm0zLSQtNt7bH3Ok90_5XhDNlCN6WK4/edit#heading=h.l9ovw75a4c4v
 
 # Getting Started with Create React App
